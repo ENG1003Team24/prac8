@@ -11,3 +11,6 @@ mechanical
 Ng Aik Han
 
 Andre Michael Candappa
+male
+age 18
+mechanical

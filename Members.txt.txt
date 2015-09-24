@@ -6,6 +6,7 @@ Daniel Chin Chee Ho
 male
 age 19
 mechanical
+Testing... Trying to get a better idea of how this Github thing works
 
 
 Ng Aik Han
